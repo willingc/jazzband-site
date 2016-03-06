@@ -2,7 +2,7 @@ This app renders https://jazzband.co. It's mostly a copy of [add-to-org]
 since I couldn't figure out how to do a few things with Sinatra.
 It also renders Markdown based documentation for the Jazzband.
 
-[![Requirements Status](https://requires.io/github/jazzband/site/requirements.svg?branch=master)](https://requires.io/github/jazzband/site/requirements/?branch=master)
+[![Requirements Status](https://requires.io/github/jazzband/jazzband-site/requirements.svg?branch=master)](https://github.com/jazzband/jazzband-site?branch=master)
 
 [![Jazzband](https://jazzband.co/static/img/badge.svg)](https://jazzband.co/)
 
